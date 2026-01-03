@@ -4,7 +4,7 @@
 | |\/| | |    \  /  | |_) / _` |/ __| |/ / _` |/ _` |/ _ \ | |\/| |/ _` | '_ \ / _` |/ _` |/ _ \ '__|
 | |  | | |___ /  \  |  __/ (_| | (__|   < (_| | (_| |  __/ | |  | | (_| | | | | (_| | (_| |  __/ |   
 |_|  |_|\____/_/\_\ |_|   \__,_|\___|_|\_\__,_|\__, |\___| |_|  |_|\__,_|_| |_|\__,_|\__, |\___|_|   
-                                               |___/                                 |___/           
+                                               |___/                                 |___/               
 ```
 
 MCX is a high-performance, functional package management engine designed for Desind GNU/Linux. It bridges the gap between complex functional declarations and raw system execution by converting Guix-style definitions into optimized, standalone Makefiles.
