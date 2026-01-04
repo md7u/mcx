@@ -16,7 +16,7 @@ MCX is a high-performance, functional package management engine designed for Des
 Each release (e.g., `mcx-0.26.tar.xz`) contains the following core components:
 
 ```text
-mcx-v.xx/
+mcx-*.tar.xz/
 ├── mcx.c              # Source code for the binary manager
 ├── converter.py       # Intelligent S-expression to Makefile engine
 ├── bootstrap.sh       # Automation for registry generation and compilation
