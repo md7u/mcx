@@ -92,10 +92,6 @@ sudo ./mcx install-sys
 
 ---
 
-**Desind OS Project** | *Building the future of sovereign computing.*
-
----
-
 ## Usage
 
 Once installed, you can build and install any package from the registry:
