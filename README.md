@@ -20,7 +20,7 @@ mcx-v.xx/
 ├── mcx.c              # Source code for the binary manager
 ├── converter.py       # Intelligent S-expression to Makefile engine
 ├── bootstrap.sh       # Automation for registry generation and compilation
-└── mcx_registry/      # Database of generated Makefile recipes
+└── registry/      # Database of generated Makefile recipes
     ├── 0xffff/        # Individual package directory
     │   └── 0.10.mk    # Version-specific build and fetch instructions
     └── ...            # Thousands of pre-converted packages
